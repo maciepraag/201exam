@@ -1,0 +1,60 @@
+body{
+    background-color: bisque;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+h5{
+    /*center image*/
+    text-align: center;
+    font-style: italic;
+}
+a{
+    color: black;
+}
+a:visited{
+    color: rgb(9, 9, 244);
+}
+img{
+    border: 2px solid rgb(20, 70, 251);
+    padding: 3px;
+    margin: 5px;
+    width: 30%;
+    height: auto;
+    /*center stuff*/
+    display: block;
+    margin: auto;
+}
+.rizz{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(100, 53, 0);
+    font-size: x-large;
+    font-style: oblique;
+    text-align: center;
+}
+/* .rizz:hover{
+    background-color: chartreuse;
+    color: black;
+    font-family: chiller, 'Comic Sans MS';
+    font-style: normal;
+    border: dashed blue 5px;
+} */
+.vid{
+    display: block;
+    margin: auto;
+}
+.video-container iframe{
+    width: 40%;
+    height: 40%;
+    /*center stuff*/
+    display: block;
+    margin: auto;
+}
+.tableauPlaceholder{
+    /*center stuff*/
+    display: block;
+    margin: auto;
+}
